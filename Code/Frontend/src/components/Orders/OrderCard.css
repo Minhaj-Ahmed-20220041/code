@@ -1,0 +1,150 @@
+.order-summary-card {
+    width: 80%;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+.order-summary-header {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(241, 241, 241);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: .5em 1em;
+}
+
+.order-summary-header p {
+    margin: 10px 5px;
+    font-size: .8em;
+}
+
+.order-summary-body {
+    margin-top: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2em;
+    padding: .5em 2em;
+}
+
+.order-summary-card button {
+    background-color: white;
+    color: black;
+}
+
+.order-products-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+
+.order-products {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.order-products img {
+    margin-right: 20px;
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    object-position: center;
+}
+
+.order-products p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.order-products-detail {
+    max-width: 500px;
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.order-products-detail p {
+    margin: .5em 1em;
+}
+
+.order-products-detail .order-product-title, .order-product-price{
+    font-weight: 300;
+    font-size: large;
+}
+
+.order-products-detail .order-product-price{
+    color: #ff6f61;
+}
+
+.order-product-view-buttton {
+    font-size: .8em;
+    font-weight: 300;
+    text-transform: none;
+    padding: .5em 1em;
+    margin: .5em 1em;
+}
+
+.order-history-actions {
+    align-self: start;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+}
+
+.order-history-actions button {
+    width: 180px;
+    padding: 1em;
+}
+
+.delete-order-button:hover {
+    border: 1px solid #e60000;
+    color: #e60000;
+}
+
+.confirm-delete-modal-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+    gap: 2em;
+}
+
+.delete-modal-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+    gap: 2em;
+}
+
+.delete-modal-buttons button {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 1em 2em;
+}
+
+.delete-modal-buttons .confirm-button {
+    border: 1px solid #e60000;
+    color: #e60000;
+}

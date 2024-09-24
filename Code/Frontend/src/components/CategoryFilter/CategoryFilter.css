@@ -1,0 +1,25 @@
+.filter {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: start;
+  margin: 10px 30px;
+  text-align: center;
+}
+
+.category-filter,
+.sort-filter {
+  text-align: center;
+}
+
+.sort-filter span {
+  font-size: 1em;
+}
+
+select {
+  padding: 10px;
+  font-size: 1em;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}

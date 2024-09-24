@@ -1,0 +1,36 @@
+.navigate-page-products {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    justify-content: end;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-right: 20px;
+}
+
+.navigate-page-products button {
+    background-color: white;
+    color: black;
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.navigate-page-products button:disabled {
+    opacity: 25%;
+    cursor: not-allowed;
+    font-size: 10px;
+}
+
+.page-input {
+    width: 80px;
+    text-align: center;
+    border: 0.5px solid black;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px 0px;
+    margin-left: 5px;
+}

@@ -1,0 +1,536 @@
+[
+  {
+    "name": "Samsung Galaxy Watch 5",
+    "brand": "Samsung",
+    "category": "smartwatch",
+    "price": 279.00,
+    "discount": 5,
+    "images": [
+      "https://www.samsung.com/us/watches/galaxy-watch/galaxy-watch5-bluetooth-sm-r9000zkaa-us/buy/#!#specs"
+    ],
+    "description": "A stylish and versatile smartwatch with advanced health tracking features, fitness monitoring, and convenient smart notifications.",
+    "specifications": {
+      "display": "1.4-inch (33.6mm) AMOLED",
+      "battery": "Up to 50 hours (typical)"
+    },
+    "quantity": 15,
+    "colors": [
+      "Black",
+      "Silver",
+      "Pink Gold"
+    ]
+  },
+  {
+    "name": "iPhone 13 Pro Max",
+    "brand": "Apple",
+    "category": "smartphone",
+    "price": 1099,
+    "discount": 5,
+    "images": [
+      "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max-.jpg",
+      "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max-new-1.jpg"
+    ],
+    "description": "The iPhone 13 Pro Max is the latest flagship smartphone from Apple. It features a stunning 6.7 inch Super Retina XDR display, the powerful A15 Bionic chip, and a triple-lens camera system with enhanced low-light performance.",
+    "specifications": {
+      "display": "6.7 inch Super Retina XDR",
+      "processor": "Apple A15 Bionic",
+      "memory": "6GB",
+      "storage": "128GB",
+      "rearCamera": "Triple-lens (12MP main, 12MP ultrawide, 12MP telephoto)",
+      "frontCamera": "12MP",
+      "battery": "4352mAh",
+      "operatingSystem": "iOS 15",
+      "wifi": "Wi-Fi 6E (802.11ax)",
+      "bluetooth": "Bluetooth 5.2"
+    },
+    "quantity": 100,
+    "colors": [
+      "Graphite",
+      "Gold",
+      "Silver",
+      "Sierra Blue"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "Samsung Galaxy Book Pro",
+    "brand": "Samsung",
+    "category": "laptop",
+    "price": 1299,
+    "discount": 10,
+    "images": [
+      "https://images.samsung.com/is/image/samsung/uk-galaxy-book-pro-360-nx950-nsb-galaxybookpro360-293918140?$720_576_PNG$",
+      "https://images.samsung.com/is/image/samsung/uk-galaxy-book-pro-360-nx950-nsb-galaxybookpro360-293918139?$720_576_PNG$"
+    ],
+    "description": "The Samsung Galaxy Book Pro is a sleek and powerful laptop designed for productivity and entertainment. It features a vibrant AMOLED display, the latest Intel processor, and long-lasting battery life.",
+    "specifications": {
+      "display": "15.6 inch AMOLED",
+      "processor": "Intel Core i7-1165G7",
+      "memory": "16GB",
+      "storage": "512GB SSD",
+      "operatingSystem": "Windows 10 Home",
+      "wifi": "Wi-Fi 6E (802.11ax)",
+      "bluetooth": "Bluetooth 5.1"
+    },
+    "quantity": 50,
+    "colors": [
+      "Mystic Blue",
+      "Mystic Silver"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "Apple Watch Series 7",
+    "brand": "Apple",
+    "category": "smartwatch",
+    "price": 399,
+    "discount": 0,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/41-alu-silver-sport-white-6s-nc?wid=2000&hei=2000&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1632369531000",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/44-alu-blue-sport-deepnavy-6s-nc?wid=2000&hei=2000&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1632369531000"
+    ],
+    "description": "The Apple Watch Series 7 is the latest smartwatch offering from Apple. It features a larger and more durable display, advanced health tracking capabilities, and support for fast charging.",
+    "specifications": {
+      "display": "Always-On Retina LTPO OLED",
+      "processor": "S7 SiP with 64-bit dual-core processor",
+      "battery": "Up to 18 hours",
+      "operatingSystem": "watchOS 8",
+      "wifi": "Wi-Fi 802.11b/g/n (2.4GHz)",
+      "bluetooth": "Bluetooth 5.0"
+    },
+    "quantity": 200,
+    "colors": [
+      "Silver Aluminum",
+      "Blue Aluminum"
+    ]
+  },
+  {
+    "name": "Google Pixel 6 Pro",
+    "brand": "Google",
+    "category": "smartphone",
+    "price": 899,
+    "discount": 0,
+    "images": [
+      "https://store.google.com/product/images/pixel_6_pro_overview_front.jpg",
+      "https://store.google.com/product/images/pixel_6_pro_overview_back.jpg"
+    ],
+    "description": "The Google Pixel 6 Pro is a flagship smartphone with a 6.7-inch QHD+ OLED display, powered by Google Tensor chip. It features a versatile camera system, long-lasting battery, and 5G connectivity.",
+    "specifications": {
+      "display": "6.7 inch QHD+ OLED",
+      "processor": "Google Tensor",
+      "memory": "12GB",
+      "storage": "128GB",
+      "rearCamera": "Triple-lens (50MP main, 12MP ultrawide, 48MP telephoto)",
+      "frontCamera": "11.1MP",
+      "battery": "5000mAh",
+      "operatingSystem": "Android 12",
+      "wifi": "Wi-Fi 6E (802.11ax)",
+      "bluetooth": "Bluetooth 5.2"
+    },
+    "quantity": 100,
+    "colors": [
+      "Cloudy White",
+      "Sorta Sunny",
+      "Stormy Black"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "Dell XPS 15",
+    "brand": "Dell",
+    "category": "laptop",
+    "price": 1799,
+    "discount": 15,
+    "images": [
+      "https://www.dell.com/support/manuals/us/en/04/xps-15-7590-laptop/xps-15-7590-setup-and-specifications/XPS-15-7590-service-manual/Product-View-Image?guid=GUID-29E9C144-F2FC-4B3A-8FFD-F5D54C92CB1E&lang=en-us"
+    ],
+    "description": "The Dell XPS 15 is a premium laptop with a stunning 15.6-inch 4K InfinityEdge display, powered by Intel Core processors. It offers exceptional performance, sleek design, and long battery life.",
+    "specifications": {
+      "display": "15.6 inch 4K InfinityEdge",
+      "processor": "Intel Core i7-9750H",
+      "memory": "16GB DDR4",
+      "storage": "512GB SSD",
+      "operatingSystem": "Windows 10 Pro",
+      "wifi": "Wi-Fi 6 (802.11ax)",
+      "bluetooth": "Bluetooth 5.0"
+    },
+    "quantity": 50,
+    "colors": [
+      "Platinum Silver",
+      "Frost White"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "Samsung Galaxy Watch 4",
+    "brand": "Samsung",
+    "category": "smartwatch",
+    "price": 249,
+    "discount": 5,
+    "images": [
+      "https://images.samsung.com/is/image/samsung/uk-galaxy-watch4-44-mm-bluetooth-sm-r870nzsabtu-frontsilver-thumb-411013358?$720_576_PNG$",
+      "https://images.samsung.com/is/image/samsung/uk-galaxy-watch4-44-mm-bluetooth-sm-r870nzsabtu-backsilver-thumb-411013358?$720_576_PNG$"
+    ],
+    "description": "The Samsung Galaxy Watch 4 is a stylish and feature-rich smartwatch with a circular AMOLED display, built-in GPS, heart rate monitoring, and advanced fitness tracking capabilities.",
+    "specifications": {
+      "display": "Circular AMOLED",
+      "processor": "Exynos W920",
+      "battery": "361mAh",
+      "operatingSystem": "Wear OS powered by Samsung",
+      "wifi": "Wi-Fi 802.11b/g/n (2.4GHz)",
+      "bluetooth": "Bluetooth 5.0"
+    },
+    "quantity": 150,
+    "colors": [
+      "Silver",
+      "Black"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "OnePlus 9 Pro",
+    "brand": "OnePlus",
+    "category": "smartphone",
+    "price": 969,
+    "discount": 10,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/81EclpvitdL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/81YvTuK7fVL._AC_SL1500_.jpg"
+    ],
+    "description": "The OnePlus 9 Pro is a flagship smartphone with a 6.7-inch Fluid AMOLED display, powered by Qualcomm Snapdragon 888 processor. It features Hasselblad quad-camera system, fast charging, and 5G connectivity.",
+    "specifications": {
+      "display": "6.7 inch Fluid AMOLED",
+      "processor": "Qualcomm Snapdragon 888",
+      "memory": "12GB",
+      "storage": "256GB",
+      "rearCamera": "Quad-lens (48MP main, 50MP ultrawide, 8MP telephoto, 2MP monochrome)",
+      "frontCamera": "16MP",
+      "battery": "4500mAh",
+      "operatingSystem": "OxygenOS 11",
+      "wifi": "Wi-Fi 6 (802.11ax)",
+      "bluetooth": "Bluetooth 5.2"
+    },
+    "quantity": 80,
+    "colors": [
+      "Morning Mist",
+      "Pine Green"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "Apple Watch SE",
+    "brand": "Apple",
+    "category": "smartwatch",
+    "price": 279,
+    "discount": 0,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/apple-watch-se-hero-202009?wid=800&hei=420&fmt=jpeg&qlt=95&.v=1600504879000"
+    ],
+    "description": "The Apple Watch SE is a versatile smartwatch with a Retina display, powered by Apple S5 chip. It offers essential features like activity tracking, heart rate monitoring, and built-in GPS.",
+    "specifications": {
+      "display": "Retina LTPO OLED",
+      "processor": "Apple S5 chip",
+      "battery": "Up to 18 hours",
+      "operatingSystem": "watchOS 7",
+      "wifi": "Wi-Fi 802.11b/g/n (2.4GHz)",
+      "bluetooth": "Bluetooth 5.0"
+    },
+    "quantity": 120,
+    "colors": [
+      "Space Gray",
+      "Silver"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "MacBook Pro 16-inch",
+    "brand": "Apple",
+    "category": "laptop",
+    "price": 2399,
+    "discount": 0,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-pro-16-touch-space-select-201911?wid=892&hei=820&&qlt=80&.v=1572654983903",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-pro-16-touch-space-select-201911?wid=892&hei=820&&qlt=80&.v=1572654983903"
+    ],
+    "description": "The MacBook Pro 16-inch is a powerful laptop with a stunning Retina display, powered by Intel Core processors. It offers advanced performance, immersive audio, and all-day battery life.",
+    "specifications": {
+      "display": "16 inch Retina",
+      "processor": "Intel Core i9",
+      "memory": "16GB",
+      "storage": "1TB SSD",
+      "operatingSystem": "macOS Big Sur",
+      "wifi": "Wi-Fi 802.11ac",
+      "bluetooth": "Bluetooth 5.0"
+    },
+    "quantity": 30,
+    "colors": [
+      "Space Gray",
+      "Silver"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "Garmin Fenix 6X Pro Solar",
+    "brand": "Garmin",
+    "category": "smartwatch",
+    "price": 999,
+    "discount": 0,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61idJHABoYL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/51X4wSPRozS._AC_SL1500_.jpg"
+    ],
+    "description": "The Garmin Fenix 6X Pro Solar is a premium multisport GPS watch with solar charging capabilities. It features a large 1.4-inch display, advanced training metrics, and rugged design suitable for outdoor adventures.",
+    "specifications": {
+      "display": "1.4 inch sunlight-visible",
+      "battery": "Smartwatch: Up to 21 days + 3 days (without solar charging)",
+      "operatingSystem": "Garmin OS",
+      "wifi": "Wi-Fi",
+      "bluetooth": "Bluetooth"
+    },
+    "quantity": 20,
+    "colors": [
+      "Slate Gray",
+      "Titanium Carbon Gray"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "Garmin Fenix 6X Pro Solar",
+    "brand": "Garmin",
+    "category": "smartwatch",
+    "price": 999,
+    "discount": 0,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61idJHABoYL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/51X4wSPRozS._AC_SL1500_.jpg"
+    ],
+    "description": "The Garmin Fenix 6X Pro Solar is a premium multisport GPS watch with solar charging capabilities. It features a large 1.4-inch display, advanced training metrics, and rugged design suitable for outdoor adventures.",
+    "specifications": {
+      "display": "1.4 inch sunlight-visible",
+      "battery": "Smartwatch: Up to 21 days + 3 days (without solar charging)",
+      "operatingSystem": "Garmin OS",
+      "wifi": "Wi-Fi",
+      "bluetooth": "Bluetooth"
+    },
+    "quantity": 20,
+    "colors": [
+      "Slate Gray",
+      "Titanium Carbon Gray"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "Microsoft Surface Laptop 4",
+    "brand": "Microsoft",
+    "category": "laptop",
+    "price": 1299,
+    "discount": 5,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61i3Upw-TtL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61BJWWyHJlL._AC_SL1500_.jpg"
+    ],
+    "description": "The Microsoft Surface Laptop 4 is a sleek and lightweight laptop with a 13.5-inch PixelSense touchscreen display, powered by Intel Core or AMD Ryzen processors. It offers all-day battery life, fast charging, and Windows 10 Pro.",
+    "specifications": {
+      "display": "13.5 inch PixelSense touchscreen",
+      "processor": "Intel Core or AMD Ryzen",
+      "memory": "8GB",
+      "storage": "256GB SSD",
+      "operatingSystem": "Windows 10 Pro",
+      "wifi": "Wi-Fi 6 (802.11ax)",
+      "bluetooth": "Bluetooth 5.0"
+    },
+    "quantity": 100,
+    "colors": [
+      "Platinum",
+      "Ice Blue"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "Fitbit Versa 3",
+    "brand": "Fitbit",
+    "category": "smartwatch",
+    "price": 229,
+    "discount": 0,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71e%2B1im9gkL._AC_SL1500_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71e%2B1im9gkL._AC_SL1500_.jpg"
+    ],
+    "description": "The Fitbit Versa 3 is a feature-packed smartwatch with built-in GPS, heart rate monitoring, and SpO2 sensor. It offers personalized on-wrist workouts, sleep tracking, and music playback.",
+    "specifications": {
+      "display": "AMOLED",
+      "battery": "Up to 6 days",
+      "operatingSystem": "Fitbit OS",
+      "wifi": "Wi-Fi",
+      "bluetooth": "Bluetooth"
+    },
+    "quantity": 80,
+    "colors": [
+      "Midnight",
+      "Soft Gold"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "Xiaomi Mi 11 Ultra",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "price": 1199,
+    "discount": 5,
+    "images": [
+      "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-11-ultra-1.jpg",
+      "https://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-11-ultra-2.jpg"
+    ],
+    "description": "The Xiaomi Mi 11 Ultra is a flagship smartphone with a 6.81-inch AMOLED display, powered by Qualcomm Snapdragon 888 chipset. It features a triple-lens camera setup co-developed with Xiaomi and Harman Kardon audio.",
+    "specifications": {
+      "display": "6.81 inch AMOLED",
+      "processor": "Qualcomm Snapdragon 888",
+      "memory": "12GB",
+      "storage": "256GB",
+      "rearCamera": "Triple-lens (50MP main, 48MP ultrawide, 48MP periscope telephoto)",
+      "frontCamera": "20MP",
+      "battery": "5000mAh",
+      "operatingSystem": "MIUI 12",
+      "wifi": "Wi-Fi 6E (802.11ax)",
+      "bluetooth": "Bluetooth 5.2"
+    },
+    "quantity": 200,
+    "colors": [
+      "Ceramic Black",
+      "Ceramic White"
+    ]
+  },
+  {
+    "name": "HP Spectre x360",
+    "brand": "HP",
+    "category": "laptop",
+    "price": 1499,
+    "discount": 10,
+    "images": [
+      "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06751982.png"
+    ],
+    "description": "The HP Spectre x360 is a premium 2-in-1 laptop with a 13.3-inch OLED display, powered by Intel Core processors. It offers versatile modes, including laptop, tablet, tent, and stand, and features a sleek and lightweight design.",
+    "specifications": {
+      "display": "13.3 inch OLED",
+      "processor": "Intel Core i7-1165G7",
+      "memory": "16GB",
+      "storage": "512GB SSD",
+      "operatingSystem": "Windows 10 Home",
+      "wifi": "Wi-Fi 6 (802.11ax)",
+      "bluetooth": "Bluetooth 5.0"
+    },
+    "quantity": 100,
+    "colors": [
+      "Nightfall Black",
+      "Poseidon Blue"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "Huawei Watch GT 2 Pro",
+    "brand": "Huawei",
+    "category": "smartwatch",
+    "price": 299,
+    "discount": 0,
+    "images": [
+      "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-gt2-pro-5g-1600.png"
+    ],
+    "description": "The Huawei Watch GT 2 Pro is a premium smartwatch with a titanium frame and sapphire glass display. It offers advanced health tracking features, including SpO2 monitoring, stress tracking, and sleep analysis.",
+    "specifications": {
+      "display": "AMOLED",
+      "battery": "Up to 14 days",
+      "operatingSystem": "LiteOS",
+      "wifi": "Wi-Fi 802.11b/g/n (2.4GHz)",
+      "bluetooth": "Bluetooth 5.1"
+    },
+    "quantity": 150,
+    "colors": [
+      "Nebula Gray",
+      "Night Black"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "Sony Xperia 1 III",
+    "brand": "Sony",
+    "category": "smartphone",
+    "price": 1299,
+    "discount": 0,
+    "images": [
+      "https://images.sony.com/is/image/Sonycom/xperia-1-iii-overview-1?$native-lg$",
+      "https://images.sony.com/is/image/Sonycom/xperia-1-iii-overview-2?$native-lg$"
+    ],
+    "description": "The Sony Xperia 1 III is a flagship smartphone with a 6.5-inch 4K HDR OLED display, powered by Qualcomm Snapdragon 888 chipset. It features a versatile triple-lens camera system co-developed with Sony Alpha, 5G connectivity, and Dolby Atmos sound.",
+    "specifications": {
+      "display": "6.5 inch 4K HDR OLED",
+      "processor": "Qualcomm Snapdragon 888",
+      "memory": "12GB",
+      "storage": "256GB",
+      "rearCamera": "Triple-lens (12MP main, 12MP ultrawide, 12MP periscope telephoto)",
+      "frontCamera": "8MP",
+      "battery": "4500mAh",
+      "operatingSystem": "Android 11",
+      "wifi": "Wi-Fi 6 (802.11ax)",
+      "bluetooth": "Bluetooth 5.2"
+    },
+    "quantity": 150,
+    "colors": [
+      "Frosted Black",
+      "Frosted Gray"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "brand": "Lenovo",
+    "category": "laptop",
+    "price": 1799,
+    "discount": 0,
+    "images": [
+      "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-x1-carbon-gen-9-front.png?context=bWFzdGVyfHJvb3R8MzEwMjl8aW1hZ2UvcG5nfGg3ZC9oYjYvMTA3OTQ4MzcwMjYzNzAucG5nfGYxZjNhNjA5MzE2NjM2M2MzNzAwNmFjMzMxZWI0ZTU0MDQyN2I2NTAzMTBhMTA5MDM5MDNiMmIwOGExMjA5NzE",
+      "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-x1-carbon-gen-9-hero.png?context=bWFzdGVyfHJvb3R8MTMxMzY4fGltYWdlL3BuZ3xoaGIvaDExLzEwNzYwNjM5ODM1OTgucG5nfGZjMTFhYzdlZTI5N2MwMzI1NzZjYjQ4ZGIxYzQwOTJjZjE5MTJlYzQxY2M2ZTAxMzA3MDU4Njg0ZmExMDZlMWM",
+      "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-x1-carbon-gen-9-front.png?context=bWFzdGVyfHJvb3R8MzEwMjl8aW1hZ2UvcG5nfGg3ZC9oYjYvMTA3OTQ4MzcwMjYzNzAucG5nfGYxZjNhNjA5MzE2NjM2M2MzNzAwNmFjMzMxZWI0ZTU0MDQyN2I2NTAzMTBhMTA5MDM5MDNiMmIwOGExMjA5NzE"
+    ],
+    "description": "The Lenovo ThinkPad X1 Carbon is a premium business laptop with a 14-inch 4K display, powered by Intel Core processors. It offers durability, security features, and all-day battery life.",
+    "specifications": {
+      "display": "14 inch 4K",
+      "processor": "Intel Core i7-1185G7",
+      "memory": "16GB",
+      "storage": "1TB SSD",
+      "operatingSystem": "Windows 10 Pro",
+      "wifi": "Wi-Fi 6 (802.11ax)",
+      "bluetooth": "Bluetooth 5.1"
+    },
+    "quantity": 100,
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "releaseYear": "2020"
+  },
+  {
+    "name": "Garmin Forerunner 945",
+    "brand": "Garmin",
+    "category": "smartwatch",
+    "price": 599,
+    "discount": 0,
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61PSayf8gqL._AC_SL1000_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61Rz5irVL3L._AC_SL1000_.jpg"
+    ],
+    "description": "The Garmin Forerunner 945 is a premium GPS running smartwatch with advanced training features. It offers performance monitoring, VO2 max estimation, and music storage. It's designed for athletes and outdoor enthusiasts.",
+    "specifications": {
+      "display": "Sunlight-visible, transflective memory-in-pixel (MIP)",
+      "battery": "Up to 2 weeks (smartwatch mode), up to 36 hours (GPS mode)",
+      "operatingSystem": "Garmin OS",
+      "wifi": "Wi-Fi",
+      "bluetooth": "Bluetooth"
+    },
+    "quantity": 80,
+    "colors": [
+      "Black",
+      "Slate Gray"
+    ],
+    "releaseYear": "2020"
+  }
+]

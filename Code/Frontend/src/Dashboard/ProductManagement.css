@@ -1,0 +1,219 @@
+.product-management-section {
+  flex: 1;
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+
+.product-management-section h2 {
+  margin: .5em;
+
+}
+
+.add-product-form,
+.bulk-product-form {
+  padding: 1em;
+}
+
+.add-product-form {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+}
+
+.add-product-form-fields {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: stretch;
+  flex-wrap: wrap;
+  gap: .5em;
+}
+
+.element-box {
+  flex: 1;
+
+  min-width: 350px;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: .5em;
+
+}
+
+.add-product-form h4,
+input,
+select,
+textarea {
+  width: 100%;
+}
+
+textarea {
+  width: 100%;
+  resize: vertical;
+  border-radius: 5px;
+  background-color: #eee;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.category {
+  text-align: center;
+}
+
+.file-input {
+  display: none;
+}
+
+.file-upload-label {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.file-upload-label:hover {
+  background-color: #0056b3;
+}
+
+.image-previews {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin-top: 10px;
+}
+
+.image-preview-container {
+  position: relative;
+}
+
+.image-preview {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.delete-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: rgb(246, 98, 98);
+  color: white;
+  border: none;
+  border-radius: 0 4px 0 4px;
+  cursor: pointer;
+  padding: 0px 5px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.delete-button:hover {
+  background-color: rgb(250, 58, 58);
+}
+
+.inline-elements {
+  align-self: flex-start;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+
+
+
+/*checkbox css*/
+.checkbox-wrapper {
+  align-self: flex-start;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: .5em;
+  padding: .5em;
+}
+
+.checkbox-wrapper .ikxBAC {
+  appearance: none;
+  background-color: #dfe1e4;
+  border-radius: 72px;
+  border-style: none;
+  flex-shrink: 0;
+  height: 20px;
+  margin: 0;
+  position: relative;
+  width: 30px;
+  padding: 0px 15px;
+}
+
+.checkbox-wrapper .ikxBAC::before {
+  bottom: -6px;
+  content: "";
+  left: -6px;
+  position: absolute;
+  right: -6px;
+  top: -6px;
+}
+
+.checkbox-wrapper .ikxBAC,
+.checkbox-wrapper .ikxBAC::after {
+  transition: all 100ms ease-out;
+}
+
+.checkbox-wrapper .ikxBAC::after {
+  background-color: #fff;
+  border-radius: 50%;
+  content: "";
+  height: 14px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 14px;
+}
+
+.checkbox-wrapper input[type=checkbox] {
+  cursor: default;
+}
+
+.checkbox-wrapper .ikxBAC:hover {
+  background-color: #c9cbcd;
+  transition-duration: 0s;
+}
+
+.checkbox-wrapper .ikxBAC:checked {
+  background-color: #84dae8;
+}
+
+.checkbox-wrapper .ikxBAC:checked::after {
+  background-color: #fff;
+  left: 13px;
+}
+
+.checkbox-wrapper :focus:not(.focus-visible) {
+  outline: 0;
+}
+
+.checkbox-wrapper .ikxBAC:checked:hover {
+  background-color: #bff1f9;
+}

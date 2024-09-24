@@ -1,0 +1,13 @@
+.date-range-selector select {
+    margin: 10px 5px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+    border: .5px solid black;
+}
+
+.date-range-selector label{
+    display: flex;
+    flex-direction: row;
+    
+}

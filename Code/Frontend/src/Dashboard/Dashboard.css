@@ -1,0 +1,263 @@
+.dashboard {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;/* Ensure the content doesn't overflow the main container */
+}
+
+.sidebar {
+  width: 280px;
+  background-color: rgb(24, 24, 86);
+  color: #eee7e7;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: fixed;/* Sidebar remains fixed while scrolling */
+  top: 0;
+  left: 0;
+  height: 100%;
+  overflow-y: auto;/* Allow sidebar content to scroll if necessary */
+  transition: width 0.3s;
+}
+
+.sidebar-closed .sidebar {
+  width: 0;
+  overflow: hidden;
+}
+
+.logo-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.logo {
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.sidebar nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0px 10px;
+}
+
+.sidebar nav ul li {
+  padding: 15px 20px;
+  cursor: pointer;
+  margin: 10px;
+
+}
+
+.sidebar nav ul li.active,
+.sidebar nav ul li:hover {
+  background-color: rgb(99, 154, 214);
+  color: white;
+  border-radius: 10px;
+}
+
+#dashboard-li a,
+#product-management-li a,
+#product-list-li a,
+#orders-li a,
+#user-management-li a,
+#sales-report-li a {
+  color: inherit;
+  text-decoration: none;
+  display: block;/* Ensures the entire li area is clickable */
+  margin: 0px;
+}
+
+.sidebar-footer {
+  padding: 20px;
+  text-align: center;
+  margin-top: auto;/* Ensures the footer is at the bottom of the sidebar */
+}
+
+.sidebar-footer .get-pro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sidebar-footer .get-pro button {
+  background-color: #ffb400;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.toggle-btn {
+  position: fixed;
+  bottom: 20px;/* Moves the button to the bottom */
+  left: 20px;
+  background-color: #ffb400;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  z-index: 1000;
+  transition: left 0.3s;
+}
+
+.sidebar-closed .toggle-btn {
+  left: 20px; /* Keeps the button at the same position when sidebar is closed */
+}
+
+.main-content {
+  margin-left: 280px;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  padding: 10px;
+  transition: margin-left 0.3s;
+}
+
+.sidebar-closed .main-content {
+  margin-left: 0;/* Adjusts the content margin when the sidebar is closed */
+}
+
+.admin-dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+
+.admin-dropdown-menu {
+  position: absolute;
+  top: 60%;
+  right: 0;
+  background-color: white;
+  color: black;
+  list-style: none;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: none;
+  z-index: 1000;
+}
+
+.admin-dropdown-toggle {
+  background: none;
+  border: none;
+  color: #ff6f61;
+  cursor: pointer;
+  font-size: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.admin-dropdown-menu.show {
+  display: block;
+  padding-bottom: 0px;
+}
+
+.admin-dropdown-menu li {
+  margin-bottom: 10px;
+}
+
+.admin-dropdown-menu li a {
+  color: black;
+  text-decoration: none;
+}
+
+.admin-dropdown-menu li a:hover {
+  color: #ff6f61;
+}
+
+.admin-dropdown-menu li button {
+  border: 1px solid black;
+  background: none;
+  border-radius: 5px;
+  color: black;
+  cursor: pointer;
+}
+
+.admin-dropdown-menu li button:hover{
+  border: 1px solid #ff6f61;
+  color: #ff6f61;
+}
+
+.content {
+  padding: 20px;
+  flex-grow: 1;
+  flex-direction: column;
+}
+
+.overview {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  flex: 1;
+  margin-right: 20px;
+}
+
+.card:last-child {
+  margin-right: 0;
+}
+
+.card h3 {
+  margin: 0 0 10px;
+}
+
+.card p {
+  font-size: 24px;
+  margin: 0;
+}
+
+.card span {
+  color: #777;
+  font-size: 14px;
+}
+
+.charts {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.chart-card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  flex: 1;
+  margin-right: 20px;
+}
+
+.chart-card:last-child {
+  margin-right: 0;
+}
+
+.chart-card h3 {
+  margin: 0 0 10px;
+}
+
+.chart .placeholder {
+  background-color: #f7f8fc;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ccc;
+  font-size: 16px;
+  border-radius: 5px;
+}

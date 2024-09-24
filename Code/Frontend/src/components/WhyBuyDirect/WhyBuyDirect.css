@@ -1,0 +1,33 @@
+.why-buy-direct {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    padding: 40px;
+    color: white;
+    margin-top: -20px;
+  }
+  
+  .why-buy-item {
+    text-align: center;
+  }
+  
+  .why-buy-item i {
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  .why-buy-item p, .why-buy-item strong, .learn-more {
+    margin: 0;
+    font-size: 1em;
+  }
+  
+  .learn-more {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .learn-more:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,77 @@
+.order-detail-view-container {
+    width: 100vw;
+    padding: 1em;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1em;
+}
+
+.order-detail-view-container p {
+    margin: 5px 0px;
+}
+
+.order-info-section {
+    border: 1px solid #ddd;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 2em 3em;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.order-info-section h5 {
+    width: 100%;
+    border-bottom: .5px solid black;
+    margin: 0;
+    padding-bottom: 1em;
+}
+
+.order-product-info {
+    width: 100%;
+    padding: 10px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2em;
+    border-bottom: .5px solid rgb(179, 179, 179);
+}
+
+.order-product-info img,
+p {
+    flex: 1;
+}
+
+.order-product-name-desc {
+    flex: 4;
+}
+
+.product-total-amount {
+    display: flex;
+    justify-content: end;
+}
+
+.order-product-info img {
+    max-height: 150px;
+    max-width: 150px;
+    object-fit: contain;
+    object-position: center;
+}
+
+.order-summary-box {
+    align-self: flex-end;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+}
+
+.order-shipping-info {
+    
+}

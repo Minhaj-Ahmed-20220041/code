@@ -1,0 +1,6733 @@
+[
+    {
+      "name": "Google Pixel 6",
+      "brand": "Samsung",
+      "category": "smartphone",
+      "price": 892.7,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/718x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/693x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 75
+      },
+      "colors": [
+        "Pink",
+        "Black"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Vivo V21",
+      "brand": "Sony",
+      "category": "smartphone",
+      "price": 397.51,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/650x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/722x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 77
+      },
+      "colors": [
+        "Silver",
+        "White",
+        "Pink",
+        "Gray"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "HTC U20",
+      "brand": "Samsung",
+      "category": "smartphone",
+      "price": 996.03,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/793x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/671x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 51
+      },
+      "colors": [
+        "Blue"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "LG Velvet",
+      "brand": "HTC",
+      "category": "smartphone",
+      "price": 281.46,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/725x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/658x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 50
+      },
+      "colors": [
+        "Gray",
+        "Blue"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Vivo V21",
+      "brand": "Nokia",
+      "category": "smartphone",
+      "price": 536.3,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/713x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/682x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 68
+      },
+      "colors": [
+        "White"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Vivo V21",
+      "brand": "Sony",
+      "category": "smartphone",
+      "price": 785.75,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/692x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/688x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 12
+      },
+      "colors": [
+        "Green",
+        "White",
+        "Black"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Nokia 8.3",
+      "brand": "Huawei",
+      "category": "smartphone",
+      "price": 376.91,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/688x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/650x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 54
+      },
+      "colors": [
+        "Green",
+        "Silver",
+        "Black"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Sony Xperia 5",
+      "brand": "Google",
+      "category": "smartphone",
+      "price": 284.09,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/667x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/657x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 73
+      },
+      "colors": [
+        "Silver",
+        "Blue"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Infinix Note 10",
+      "brand": "HTC",
+      "category": "smartphone",
+      "price": 532.33,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/663x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/737x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 16
+      },
+      "colors": [
+        "Gray",
+        "Blue"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Sony Xperia 5",
+      "brand": "HTC",
+      "category": "smartphone",
+      "price": 934.68,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/799x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/661x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 50
+      },
+      "colors": [
+        "Blue",
+        "Black",
+        "Silver",
+        "Pink"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Realme GT",
+      "brand": "Sony",
+      "category": "smartphone",
+      "price": 948.98,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/699x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/733x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 28
+      },
+      "colors": [
+        "Green",
+        "White",
+        "Black"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Infinix Note 10",
+      "brand": "Nokia",
+      "category": "smartphone",
+      "price": 561.44,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/650x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/783x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 5
+      },
+      "colors": [
+        "Pink",
+        "Gray",
+        "Silver"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Realme GT",
+      "brand": "Huawei",
+      "category": "smartphone",
+      "price": 423.71,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/769x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/711x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 61
+      },
+      "colors": [
+        "Pink",
+        "Black"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Vivo V21",
+      "brand": "LG",
+      "category": "smartphone",
+      "price": 744.37,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/751x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/773x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 86
+      },
+      "colors": [
+        "Green",
+        "Gray"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "HTC U20",
+      "brand": "LG",
+      "category": "smartphone",
+      "price": 242.37,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/762x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/761x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 25
+      },
+      "colors": [
+        "Gray",
+        "White",
+        "Black"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Sony Xperia 5",
+      "brand": "Nokia",
+      "category": "smartphone",
+      "price": 562.84,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/786x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/696x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 9
+      },
+      "colors": [
+        "Black",
+        "Green",
+        "Gray",
+        "Silver"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Vivo V21",
+      "brand": "Poco",
+      "category": "smartphone",
+      "price": 379.6,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/665x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/782x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 81
+      },
+      "colors": [
+        "Green",
+        "Silver",
+        "Black",
+        "Blue"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Realme GT",
+      "brand": "Realme",
+      "category": "smartphone",
+      "price": 238.87,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/787x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/785x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 68
+      },
+      "colors": [
+        "Black",
+        "Gray",
+        "Blue"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Xiaomi Mi 11 Lite",
+      "brand": "Vivo",
+      "category": "smartphone",
+      "price": 225.62,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/658x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/655x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 81
+      },
+      "colors": [
+        "Gray",
+        "Green",
+        "White",
+        "Silver"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Xiaomi Mi 11 Lite",
+      "brand": "Infinix",
+      "category": "smartphone",
+      "price": 853.62,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/708x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/794x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 3
+      },
+      "colors": [
+        "White"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "brand": "Vivo",
+      "category": "smartphone",
+      "price": 202.4,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/761x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/676x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 37
+      },
+      "colors": [
+        "Black",
+        "Green",
+        "Gray"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "HTC U20",
+      "brand": "Poco",
+      "category": "smartphone",
+      "price": 743.63,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/718x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/752x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 69
+      },
+      "colors": [
+        "Silver",
+        "Pink",
+        "Black"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Xiaomi Mi 11 Lite",
+      "brand": "Infinix",
+      "category": "smartphone",
+      "price": 680.93,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/744x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/678x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 94
+      },
+      "colors": [
+        "Gray",
+        "White",
+        "Pink"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "LG Velvet",
+      "brand": "Infinix",
+      "category": "smartphone",
+      "price": 830.31,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/672x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/675x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 74
+      },
+      "colors": [
+        "Black"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Google Pixel 6",
+      "brand": "Realme",
+      "category": "smartphone",
+      "price": 524.96,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/765x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/764x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 66
+      },
+      "colors": [
+        "Black",
+        "White",
+        "Green",
+        "Gray"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "brand": "Apple",
+      "category": "smartphone",
+      "price": 981.63,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/671x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/799x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 70
+      },
+      "colors": [
+        "Gray",
+        "Black",
+        "Green",
+        "Pink"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "brand": "Apple",
+      "category": "smartphone",
+      "price": 306.14,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/681x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/764x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 10
+      },
+      "colors": [
+        "Pink"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "OnePlus 9",
+      "brand": "LG",
+      "category": "smartphone",
+      "price": 226.45,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/747x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/764x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 87
+      },
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "OnePlus 9",
+      "brand": "LG",
+      "category": "smartphone",
+      "price": 314.85,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/767x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/704x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 38
+      },
+      "colors": [
+        "Pink",
+        "Green",
+        "Black",
+        "White"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "LG Velvet",
+      "brand": "Apple",
+      "category": "smartphone",
+      "price": 700.35,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/758x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/686x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 51
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Vivo V21",
+      "brand": "Xiaomi",
+      "category": "smartphone",
+      "price": 556.23,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/762x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/787x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 30
+      },
+      "colors": [
+        "Gray",
+        "Silver",
+        "Pink",
+        "Green"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "HTC U20",
+      "brand": "Samsung",
+      "category": "smartphone",
+      "price": 794.97,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/715x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/761x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 0
+      },
+      "colors": [
+        "Green",
+        "Black"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "brand": "Samsung",
+      "category": "smartphone",
+      "price": 386.6,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/738x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/796x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 86
+      },
+      "colors": [
+        "Gray",
+        "Black",
+        "Pink",
+        "Blue"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "brand": "HTC",
+      "category": "smartphone",
+      "price": 441.7,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/664x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/750x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 0
+      },
+      "colors": [
+        "Green",
+        "Black"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Xiaomi Mi 11 Lite",
+      "brand": "OnePlus",
+      "category": "smartphone",
+      "price": 360.81,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/781x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/689x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 86
+      },
+      "colors": [
+        "Blue",
+        "Black",
+        "Silver",
+        "Gray"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Nokia 8.3",
+      "brand": "Sony",
+      "category": "smartphone",
+      "price": 649.34,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/757x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/713x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 19
+      },
+      "colors": [
+        "Blue"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Realme GT",
+      "brand": "Sony",
+      "category": "smartphone",
+      "price": 503.0,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/720x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/714x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 40
+      },
+      "colors": [
+        "Black"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Google Pixel 6",
+      "brand": "Huawei",
+      "category": "smartphone",
+      "price": 896.5,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/751x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/742x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 11
+      },
+      "colors": [
+        "Pink",
+        "Silver",
+        "Blue",
+        "Gray"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Vivo V21",
+      "brand": "Huawei",
+      "category": "smartphone",
+      "price": 598.22,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/722x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/700x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 75
+      },
+      "colors": [
+        "Blue",
+        "Silver",
+        "Pink"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "OnePlus 9",
+      "brand": "HTC",
+      "category": "smartphone",
+      "price": 537.33,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/702x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/707x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 29
+      },
+      "colors": [
+        "Silver",
+        "Pink",
+        "Gray",
+        "Green"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Sony Xperia 5",
+      "brand": "Poco",
+      "category": "smartphone",
+      "price": 842.78,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/688x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/714x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 95
+      },
+      "colors": [
+        "White"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Realme GT",
+      "brand": "Huawei",
+      "category": "smartphone",
+      "price": 785.62,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/682x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/691x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 41
+      },
+      "colors": [
+        "Black",
+        "Gray",
+        "Blue",
+        "Green"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Apple iPhone 13 Pro",
+      "brand": "Huawei",
+      "category": "smartphone",
+      "price": 623.54,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/777x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/792x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 6
+      },
+      "colors": [
+        "Black"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Sony Xperia 5",
+      "brand": "LG",
+      "category": "smartphone",
+      "price": 603.75,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/728x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/798x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 73
+      },
+      "colors": [
+        "Pink",
+        "Green",
+        "Blue",
+        "White"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Apple iPhone 13 Pro",
+      "brand": "Vivo",
+      "category": "smartphone",
+      "price": 739.84,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/779x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/768x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 51
+      },
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "LG Velvet",
+      "brand": "Poco",
+      "category": "smartphone",
+      "price": 410.33,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/687x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/770x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 3
+      },
+      "colors": [
+        "White"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Infinix Note 10",
+      "brand": "Huawei",
+      "category": "smartphone",
+      "price": 833.51,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/716x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/727x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 68
+      },
+      "colors": [
+        "Blue",
+        "Silver",
+        "Green"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Google Pixel 6",
+      "brand": "Poco",
+      "category": "smartphone",
+      "price": 792.17,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/687x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/720x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 71
+      },
+      "colors": [
+        "Green"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "OnePlus 9",
+      "brand": "Vivo",
+      "category": "smartphone",
+      "price": 871.52,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/706x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/702x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 62
+      },
+      "colors": [
+        "Black",
+        "Blue",
+        "Silver",
+        "Green"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Sony Xperia 5",
+      "brand": "Xiaomi",
+      "category": "smartphone",
+      "price": 723.63,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/681x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/778x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 9
+      },
+      "colors": [
+        "Silver",
+        "Blue",
+        "Black",
+        "Pink"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "LG Velvet",
+      "brand": "Infinix",
+      "category": "smartphone",
+      "price": 654.52,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/762x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/789x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 6
+      },
+      "colors": [
+        "Silver"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Vivo V21",
+      "brand": "OnePlus",
+      "category": "smartphone",
+      "price": 568.4,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/772x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/712x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 60
+      },
+      "colors": [
+        "Silver"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Xiaomi Mi 11 Lite",
+      "brand": "Samsung",
+      "category": "smartphone",
+      "price": 368.35,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/769x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/692x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 5
+      },
+      "colors": [
+        "Green"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Google Pixel 6",
+      "brand": "Sony",
+      "category": "smartphone",
+      "price": 593.51,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/689x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/784x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 61
+      },
+      "colors": [
+        "Pink"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Samsung Galaxy S21 Ultra",
+      "brand": "Infinix",
+      "category": "smartphone",
+      "price": 495.99,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/701x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/776x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 70
+      },
+      "colors": [
+        "Green",
+        "Silver",
+        "Black"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Vivo V21",
+      "brand": "HTC",
+      "category": "smartphone",
+      "price": 950.77,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/796x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/764x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 74
+      },
+      "colors": [
+        "Blue",
+        "Pink",
+        "Green",
+        "Silver"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "brand": "Sony",
+      "category": "smartphone",
+      "price": 314.76,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/719x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/752x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 14
+      },
+      "colors": [
+        "Pink",
+        "Silver",
+        "Green"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Xiaomi Mi 11 Lite",
+      "brand": "Huawei",
+      "category": "smartphone",
+      "price": 996.24,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/663x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/690x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 52
+      },
+      "colors": [
+        "Gray",
+        "White"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Infinix Note 10",
+      "brand": "Xiaomi",
+      "category": "smartphone",
+      "price": 548.56,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/784x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/651x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 58
+      },
+      "colors": [
+        "Green",
+        "Pink",
+        "Black"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Nokia 8.3",
+      "brand": "Realme",
+      "category": "smartphone",
+      "price": 599.58,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/653x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/712x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 93
+      },
+      "colors": [
+        "Silver",
+        "White",
+        "Green"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Poco X3 Pro",
+      "brand": "Nokia",
+      "category": "smartphone",
+      "price": 352.12,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/700x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/667x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 90
+      },
+      "colors": [
+        "Silver"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "brand": "Samsung",
+      "category": "smartphone",
+      "price": 263.9,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/699x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/785x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 41
+      },
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "LG Velvet",
+      "brand": "Apple",
+      "category": "smartphone",
+      "price": 288.15,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/760x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/762x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 99
+      },
+      "colors": [
+        "Gray",
+        "Green"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Xiaomi Mi 11 Lite",
+      "brand": "Samsung",
+      "category": "smartphone",
+      "price": 610.09,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/730x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/729x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 95
+      },
+      "colors": [
+        "Green"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "brand": "Samsung",
+      "category": "smartphone",
+      "price": 429.74,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/714x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/764x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 56
+      },
+      "colors": [
+        "Black",
+        "Blue",
+        "Pink",
+        "Gray"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "LG Velvet",
+      "brand": "Infinix",
+      "category": "smartphone",
+      "price": 650.13,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/744x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/699x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 64
+      },
+      "colors": [
+        "Pink",
+        "Black",
+        "Green",
+        "Blue"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Xiaomi Mi 11 Lite",
+      "brand": "Apple",
+      "category": "smartphone",
+      "price": 430.89,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/657x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/749x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 86
+      },
+      "colors": [
+        "Gray",
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "brand": "Apple",
+      "category": "smartphone",
+      "price": 461.81,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/676x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/680x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 6
+      },
+      "colors": [
+        "White",
+        "Green",
+        "Black",
+        "Silver"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Xiaomi Mi 11 Lite",
+      "brand": "Sony",
+      "category": "smartphone",
+      "price": 853.52,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/673x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/662x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 80
+      },
+      "colors": [
+        "Blue",
+        "Gray",
+        "Green",
+        "Black"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "brand": "Samsung",
+      "category": "smartphone",
+      "price": 479.86,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/675x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/793x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 52
+      },
+      "colors": [
+        "Black",
+        "Gray"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Vivo V21",
+      "brand": "Poco",
+      "category": "smartphone",
+      "price": 698.72,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/688x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/699x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 41
+      },
+      "colors": [
+        "Green",
+        "Pink",
+        "Gray"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Samsung Galaxy S21 Ultra",
+      "brand": "Poco",
+      "category": "smartphone",
+      "price": 637.91,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/679x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/748x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 14
+      },
+      "colors": [
+        "Gray",
+        "Black",
+        "White"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "OnePlus 9",
+      "brand": "Sony",
+      "category": "smartphone",
+      "price": 758.75,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/763x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/693x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 27
+      },
+      "colors": [
+        "Black",
+        "Blue",
+        "Gray"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Samsung Galaxy S21 Ultra",
+      "brand": "Realme",
+      "category": "smartphone",
+      "price": 344.95,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/750x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/658x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 6
+      },
+      "colors": [
+        "Green"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Poco X3 Pro",
+      "brand": "Xiaomi",
+      "category": "smartphone",
+      "price": 471.97,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/699x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/787x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 16
+      },
+      "colors": [
+        "Green",
+        "Pink",
+        "Blue",
+        "Silver"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Samsung Galaxy S21 Ultra",
+      "brand": "HTC",
+      "category": "smartphone",
+      "price": 753.46,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/697x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/729x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 60
+      },
+      "colors": [
+        "Silver",
+        "Gray"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Infinix Note 10",
+      "brand": "Realme",
+      "category": "smartphone",
+      "price": 618.05,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/688x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/653x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 50
+      },
+      "colors": [
+        "Gray",
+        "White"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Sony Xperia 5",
+      "brand": "Huawei",
+      "category": "smartphone",
+      "price": 768.91,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/713x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/731x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 89
+      },
+      "colors": [
+        "White",
+        "Pink"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "OnePlus 9",
+      "brand": "Vivo",
+      "category": "smartphone",
+      "price": 212.38,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/798x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/730x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 91
+      },
+      "colors": [
+        "Blue"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Poco X3 Pro",
+      "brand": "OnePlus",
+      "category": "smartphone",
+      "price": 699.63,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/753x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/721x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 27
+      },
+      "colors": [
+        "Pink",
+        "Blue",
+        "Silver"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "brand": "Infinix",
+      "category": "smartphone",
+      "price": 603.71,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/667x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/736x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 87
+      },
+      "colors": [
+        "Gray"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "brand": "Huawei",
+      "category": "smartphone",
+      "price": 812.21,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/681x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/706x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 97
+      },
+      "colors": [
+        "Gray"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "brand": "Apple",
+      "category": "smartphone",
+      "price": 981.99,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/711x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/794x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 71
+      },
+      "colors": [
+        "White",
+        "Gray",
+        "Green",
+        "Blue"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Google Pixel 6",
+      "brand": "Poco",
+      "category": "smartphone",
+      "price": 673.03,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/797x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/685x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 31
+      },
+      "colors": [
+        "Gray",
+        "Pink"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Sony Xperia 5",
+      "brand": "Google",
+      "category": "smartphone",
+      "price": 958.11,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/737x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/653x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 99
+      },
+      "colors": [
+        "Blue"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Infinix Note 10",
+      "brand": "HTC",
+      "category": "smartphone",
+      "price": 242.91,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/778x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/799x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 22
+      },
+      "colors": [
+        "Pink",
+        "Green"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Realme GT",
+      "brand": "Poco",
+      "category": "smartphone",
+      "price": 487.4,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/774x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/658x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 90
+      },
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Sony Xperia 5",
+      "brand": "Sony",
+      "category": "smartphone",
+      "price": 576.04,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/733x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/725x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 0
+      },
+      "colors": [
+        "Silver",
+        "Blue",
+        "Gray",
+        "Green"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "HTC U20",
+      "brand": "Vivo",
+      "category": "smartphone",
+      "price": 645.3,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/761x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/772x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 3
+      },
+      "colors": [
+        "Blue"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "brand": "Sony",
+      "category": "smartphone",
+      "price": 501.98,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/681x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/764x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 48
+      },
+      "colors": [
+        "Black",
+        "Silver",
+        "White",
+        "Blue"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "HTC U20",
+      "brand": "OnePlus",
+      "category": "smartphone",
+      "price": 282.7,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/791x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/699x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 98
+      },
+      "colors": [
+        "White",
+        "Silver"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Apple iPhone 13 Pro",
+      "brand": "Huawei",
+      "category": "smartphone",
+      "price": 572.14,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/761x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/752x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 86
+      },
+      "colors": [
+        "Gray",
+        "White",
+        "Black"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Vivo V21",
+      "brand": "Realme",
+      "category": "smartphone",
+      "price": 741.22,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/783x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/701x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 21
+      },
+      "colors": [
+        "Black",
+        "Silver",
+        "Gray"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Infinix Note 10",
+      "brand": "Nokia",
+      "category": "smartphone",
+      "price": 453.9,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/763x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/751x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 71
+      },
+      "colors": [
+        "Silver",
+        "Green",
+        "Pink",
+        "Blue"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "LG Velvet",
+      "brand": "Xiaomi",
+      "category": "smartphone",
+      "price": 393.17,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/667x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/678x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 12
+      },
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "LG Velvet",
+      "brand": "Vivo",
+      "category": "smartphone",
+      "price": 510.91,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/732x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/720x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 68
+      },
+      "colors": [
+        "Green",
+        "Blue"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Apple iPhone 13 Pro",
+      "brand": "Google",
+      "category": "smartphone",
+      "price": 903.18,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/706x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/671x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Octa-core 2.8 GHz",
+        "memory": "8GB RAM",
+        "storage": "128GB",
+        "frontCamera": "12MP",
+        "rearCamera": "48MP + 12MP + 8MP",
+        "battery": "4000mAh",
+        "operatingSystem": "Android 11",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 76
+      },
+      "colors": [
+        "Black"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Poco X3 Pro",
+      "brand": "Poco",
+      "category": "smartphone",
+      "price": 529.21,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/746x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/707x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 41
+      },
+      "colors": [
+        "White",
+        "Blue",
+        "Pink",
+        "Black"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Samsung Galaxy S21 Ultra",
+      "brand": "HTC",
+      "category": "smartphone",
+      "price": 579.49,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/703x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/775x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 32
+      },
+      "colors": [
+        "Blue",
+        "Silver"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "LG Velvet",
+      "brand": "Sony",
+      "category": "smartphone",
+      "price": 222.48,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/724x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/739x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 82
+      },
+      "colors": [
+        "Silver",
+        "Blue"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Razer Blade 15",
+      "brand": "Dell",
+      "category": "laptop",
+      "price": 1557.79,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/722x800/000/fff&text=Laptop",
+        "https://dummyimage.com/724x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 28
+      },
+      "colors": [
+        "Green",
+        "Silver"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "HP Spectre x360",
+      "brand": "Lenovo",
+      "category": "laptop",
+      "price": 1739.81,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/672x800/000/fff&text=Laptop",
+        "https://dummyimage.com/736x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 5
+      },
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "MSI GS66 Stealth",
+      "brand": "Dell",
+      "category": "laptop",
+      "price": 926.29,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/673x800/000/fff&text=Laptop",
+        "https://dummyimage.com/681x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 3
+      },
+      "colors": [
+        "Pink"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Dell",
+      "category": "laptop",
+      "price": 1749.93,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/684x800/000/fff&text=Laptop",
+        "https://dummyimage.com/738x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 1
+      },
+      "colors": [
+        "Green"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2019"
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "brand": "Asus",
+      "category": "laptop",
+      "price": 1107.32,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/657x800/000/fff&text=Laptop",
+        "https://dummyimage.com/787x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 30
+      },
+      "colors": [
+        "Silver",
+        "Gray"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2019"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "Lenovo",
+      "category": "laptop",
+      "price": 724.46,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/746x800/000/fff&text=Laptop",
+        "https://dummyimage.com/782x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 17
+      },
+      "colors": [
+        "Pink",
+        "Blue"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "Asus",
+      "category": "laptop",
+      "price": 1164.19,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/740x800/000/fff&text=Laptop",
+        "https://dummyimage.com/797x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 7
+      },
+      "colors": [
+        "White",
+        "Silver",
+        "Green"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "Dell",
+      "category": "laptop",
+      "price": 1728.45,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/727x800/000/fff&text=Laptop",
+        "https://dummyimage.com/661x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 3
+      },
+      "colors": [
+        "Silver"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "MSI GS66 Stealth",
+      "brand": "MSI",
+      "category": "laptop",
+      "price": 1255.76,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/660x800/000/fff&text=Laptop",
+        "https://dummyimage.com/650x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 0
+      },
+      "colors": [
+        "Silver"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Razer Blade 15",
+      "brand": "Asus",
+      "category": "laptop",
+      "price": 579.05,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/760x800/000/fff&text=Laptop",
+        "https://dummyimage.com/753x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 23
+      },
+      "colors": [
+        "Silver"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2019"
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "Asus",
+      "category": "laptop",
+      "price": 1411.9,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/707x800/000/fff&text=Laptop",
+        "https://dummyimage.com/746x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 35
+      },
+      "colors": [
+        "Blue",
+        "White"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2019"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Razer",
+      "category": "laptop",
+      "price": 1490.12,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/704x800/000/fff&text=Laptop",
+        "https://dummyimage.com/751x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 37
+      },
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "Microsoft",
+      "category": "laptop",
+      "price": 636.9,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/651x800/000/fff&text=Laptop",
+        "https://dummyimage.com/795x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 26
+      },
+      "colors": [
+        "Silver"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Lenovo",
+      "category": "laptop",
+      "price": 507.47,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/772x800/000/fff&text=Laptop",
+        "https://dummyimage.com/712x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 10
+      },
+      "colors": [
+        "Green",
+        "Black",
+        "White"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "MSI",
+      "category": "laptop",
+      "price": 958.9,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/735x800/000/fff&text=Laptop",
+        "https://dummyimage.com/737x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 9
+      },
+      "colors": [
+        "Blue"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "HP",
+      "category": "laptop",
+      "price": 697.29,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/744x800/000/fff&text=Laptop",
+        "https://dummyimage.com/743x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 31
+      },
+      "colors": [
+        "Blue",
+        "White"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "brand": "MSI",
+      "category": "laptop",
+      "price": 557.71,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/650x800/000/fff&text=Laptop",
+        "https://dummyimage.com/650x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 13
+      },
+      "colors": [
+        "Blue"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "MSI GS66 Stealth",
+      "brand": "MSI",
+      "category": "laptop",
+      "price": 1036.34,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/714x800/000/fff&text=Laptop",
+        "https://dummyimage.com/676x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 42
+      },
+      "colors": [
+        "Gray"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "MSI",
+      "category": "laptop",
+      "price": 1809.53,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/732x800/000/fff&text=Laptop",
+        "https://dummyimage.com/794x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 9
+      },
+      "colors": [
+        "Green"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2019"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "Microsoft",
+      "category": "laptop",
+      "price": 1510.92,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/669x800/000/fff&text=Laptop",
+        "https://dummyimage.com/659x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 46
+      },
+      "colors": [
+        "Gray",
+        "Black",
+        "Blue"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "MSI",
+      "category": "laptop",
+      "price": 757.41,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/777x800/000/fff&text=Laptop",
+        "https://dummyimage.com/657x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 15
+      },
+      "colors": [
+        "Blue",
+        "Gray"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Microsoft",
+      "category": "laptop",
+      "price": 1029.9,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/733x800/000/fff&text=Laptop",
+        "https://dummyimage.com/755x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 10
+      },
+      "colors": [
+        "Green"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Razer Blade 15",
+      "brand": "Razer",
+      "category": "laptop",
+      "price": 1002.82,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/732x800/000/fff&text=Laptop",
+        "https://dummyimage.com/674x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 18
+      },
+      "colors": [
+        "Pink",
+        "Silver",
+        "Blue"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Razer Blade 15",
+      "brand": "Asus",
+      "category": "laptop",
+      "price": 1770.38,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/708x800/000/fff&text=Laptop",
+        "https://dummyimage.com/677x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 9
+      },
+      "colors": [
+        "White",
+        "Silver"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "HP",
+      "category": "laptop",
+      "price": 599.35,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/773x800/000/fff&text=Laptop",
+        "https://dummyimage.com/780x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 29
+      },
+      "colors": [
+        "White"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2019"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "Razer",
+      "category": "laptop",
+      "price": 1405.26,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/724x800/000/fff&text=Laptop",
+        "https://dummyimage.com/718x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 22
+      },
+      "colors": [
+        "Gray",
+        "Pink",
+        "Black"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "MSI",
+      "category": "laptop",
+      "price": 1168.89,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/792x800/000/fff&text=Laptop",
+        "https://dummyimage.com/672x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 2
+      },
+      "colors": [
+        "White"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "HP Spectre x360",
+      "brand": "Lenovo",
+      "category": "laptop",
+      "price": 1398.81,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/729x800/000/fff&text=Laptop",
+        "https://dummyimage.com/719x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 26
+      },
+      "colors": [
+        "White",
+        "Black",
+        "Gray"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2019"
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "brand": "Lenovo",
+      "category": "laptop",
+      "price": 1871.13,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/796x800/000/fff&text=Laptop",
+        "https://dummyimage.com/704x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 39
+      },
+      "colors": [
+        "White",
+        "Green",
+        "Blue"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Asus",
+      "category": "laptop",
+      "price": 1966.89,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/783x800/000/fff&text=Laptop",
+        "https://dummyimage.com/766x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 34
+      },
+      "colors": [
+        "White",
+        "Pink",
+        "Gray"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Microsoft",
+      "category": "laptop",
+      "price": 554.08,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/764x800/000/fff&text=Laptop",
+        "https://dummyimage.com/726x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 41
+      },
+      "colors": [
+        "Blue",
+        "White",
+        "Silver"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "MSI GS66 Stealth",
+      "brand": "HP",
+      "category": "laptop",
+      "price": 977.72,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/722x800/000/fff&text=Laptop",
+        "https://dummyimage.com/690x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 1
+      },
+      "colors": [
+        "Blue",
+        "White",
+        "Black"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "HP",
+      "category": "laptop",
+      "price": 1062.64,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/665x800/000/fff&text=Laptop",
+        "https://dummyimage.com/747x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 8
+      },
+      "colors": [
+        "Blue",
+        "Green",
+        "Silver"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "Asus",
+      "category": "laptop",
+      "price": 748.37,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/756x800/000/fff&text=Laptop",
+        "https://dummyimage.com/663x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 15
+      },
+      "colors": [
+        "Black",
+        "Blue",
+        "Pink"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "HP Spectre x360",
+      "brand": "Dell",
+      "category": "laptop",
+      "price": 1387.23,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/791x800/000/fff&text=Laptop",
+        "https://dummyimage.com/682x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 13
+      },
+      "colors": [
+        "Gray",
+        "White",
+        "Pink"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Razer Blade 15",
+      "brand": "Razer",
+      "category": "laptop",
+      "price": 701.61,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/686x800/000/fff&text=Laptop",
+        "https://dummyimage.com/650x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 25
+      },
+      "colors": [
+        "White"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2019"
+    },
+    {
+      "name": "HP Spectre x360",
+      "brand": "Lenovo",
+      "category": "laptop",
+      "price": 1169.75,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/764x800/000/fff&text=Laptop",
+        "https://dummyimage.com/653x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 9
+      },
+      "colors": [
+        "Black"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2019"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Microsoft",
+      "category": "laptop",
+      "price": 799.04,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/794x800/000/fff&text=Laptop",
+        "https://dummyimage.com/777x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 41
+      },
+      "colors": [
+        "Black",
+        "Gray",
+        "Pink"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Lenovo",
+      "category": "laptop",
+      "price": 955.37,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/695x800/000/fff&text=Laptop",
+        "https://dummyimage.com/695x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 49
+      },
+      "colors": [
+        "Gray",
+        "Green"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "HP Spectre x360",
+      "brand": "Microsoft",
+      "category": "laptop",
+      "price": 1400.67,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/655x800/000/fff&text=Laptop",
+        "https://dummyimage.com/790x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 13
+      },
+      "colors": [
+        "Blue",
+        "Silver",
+        "White"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2019"
+    },
+    {
+      "name": "MSI GS66 Stealth",
+      "brand": "MSI",
+      "category": "laptop",
+      "price": 1898.04,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/732x800/000/fff&text=Laptop",
+        "https://dummyimage.com/722x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 9
+      },
+      "colors": [
+        "Black",
+        "Gray"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "Razer",
+      "category": "laptop",
+      "price": 819.35,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/795x800/000/fff&text=Laptop",
+        "https://dummyimage.com/730x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 15
+      },
+      "colors": [
+        "Pink",
+        "Black",
+        "Gray"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2019"
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "Razer",
+      "category": "laptop",
+      "price": 1699.03,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/761x800/000/fff&text=Laptop",
+        "https://dummyimage.com/792x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 33
+      },
+      "colors": [
+        "Green",
+        "Silver"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2019"
+    },
+    {
+      "name": "MSI GS66 Stealth",
+      "brand": "Microsoft",
+      "category": "laptop",
+      "price": 557.77,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/659x800/000/fff&text=Laptop",
+        "https://dummyimage.com/760x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 0
+      },
+      "colors": [
+        "Black"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "brand": "Asus",
+      "category": "laptop",
+      "price": 1341.0,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/720x800/000/fff&text=Laptop",
+        "https://dummyimage.com/728x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 3
+      },
+      "colors": [
+        "Green",
+        "Pink"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "category": "laptop",
+      "price": 691.76,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/749x800/000/fff&text=Laptop",
+        "https://dummyimage.com/662x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 23
+      },
+      "colors": [
+        "Green"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "MSI GS66 Stealth",
+      "brand": "Lenovo",
+      "category": "laptop",
+      "price": 563.92,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/707x800/000/fff&text=Laptop",
+        "https://dummyimage.com/777x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 26
+      },
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "Lenovo",
+      "category": "laptop",
+      "price": 1479.92,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/731x800/000/fff&text=Laptop",
+        "https://dummyimage.com/685x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 18
+      },
+      "colors": [
+        "Silver",
+        "Blue"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "Asus",
+      "category": "laptop",
+      "price": 639.39,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/756x800/000/fff&text=Laptop",
+        "https://dummyimage.com/751x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 1
+      },
+      "colors": [
+        "Blue",
+        "Green",
+        "Pink"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Razer Blade 15",
+      "brand": "Microsoft",
+      "category": "laptop",
+      "price": 1644.21,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/787x800/000/fff&text=Laptop",
+        "https://dummyimage.com/691x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 6
+      },
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "category": "laptop",
+      "price": 1116.04,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/714x800/000/fff&text=Laptop",
+        "https://dummyimage.com/757x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 26
+      },
+      "colors": [
+        "Gray",
+        "White"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "Lenovo",
+      "category": "laptop",
+      "price": 600.05,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/787x800/000/fff&text=Laptop",
+        "https://dummyimage.com/760x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 9
+      },
+      "colors": [
+        "Black",
+        "Pink",
+        "Gray"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "MSI",
+      "category": "laptop",
+      "price": 1108.65,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/701x800/000/fff&text=Laptop",
+        "https://dummyimage.com/795x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 36
+      },
+      "colors": [
+        "Silver",
+        "Gray",
+        "Pink"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "Asus",
+      "category": "laptop",
+      "price": 1927.78,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/729x800/000/fff&text=Laptop",
+        "https://dummyimage.com/659x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 11
+      },
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2019"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "Asus",
+      "category": "laptop",
+      "price": 1531.2,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/669x800/000/fff&text=Laptop",
+        "https://dummyimage.com/755x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 13
+      },
+      "colors": [
+        "Green",
+        "Gray"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Razer",
+      "category": "laptop",
+      "price": 1666.79,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/683x800/000/fff&text=Laptop",
+        "https://dummyimage.com/674x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 19
+      },
+      "colors": [
+        "White"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Lenovo",
+      "category": "laptop",
+      "price": 1188.24,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/655x800/000/fff&text=Laptop",
+        "https://dummyimage.com/757x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 2
+      },
+      "colors": [
+        "Pink",
+        "Blue"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "Microsoft",
+      "category": "laptop",
+      "price": 1134.31,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/659x800/000/fff&text=Laptop",
+        "https://dummyimage.com/770x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 25
+      },
+      "colors": [
+        "Blue",
+        "Pink",
+        "Black"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "Lenovo",
+      "category": "laptop",
+      "price": 708.09,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/695x800/000/fff&text=Laptop",
+        "https://dummyimage.com/763x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 46
+      },
+      "colors": [
+        "Gray"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Razer Blade 15",
+      "brand": "MSI",
+      "category": "laptop",
+      "price": 908.39,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/740x800/000/fff&text=Laptop",
+        "https://dummyimage.com/780x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 47
+      },
+      "colors": [
+        "Pink",
+        "Blue",
+        "White"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "MSI",
+      "category": "laptop",
+      "price": 1778.9,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/778x800/000/fff&text=Laptop",
+        "https://dummyimage.com/738x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 27
+      },
+      "colors": [
+        "Silver"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Razer Blade 15",
+      "brand": "Razer",
+      "category": "laptop",
+      "price": 972.32,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/652x800/000/fff&text=Laptop",
+        "https://dummyimage.com/731x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 50
+      },
+      "colors": [
+        "Gray",
+        "White"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "HP Spectre x360",
+      "brand": "HP",
+      "category": "laptop",
+      "price": 1573.48,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/671x800/000/fff&text=Laptop",
+        "https://dummyimage.com/777x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 2
+      },
+      "colors": [
+        "Gray",
+        "Black",
+        "Pink"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2020"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "Asus",
+      "category": "laptop",
+      "price": 1646.92,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/665x800/000/fff&text=Laptop",
+        "https://dummyimage.com/768x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 42
+      },
+      "colors": [
+        "Pink"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "MSI GS66 Stealth",
+      "brand": "Razer",
+      "category": "laptop",
+      "price": 715.83,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/714x800/000/fff&text=Laptop",
+        "https://dummyimage.com/681x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 45
+      },
+      "colors": [
+        "Green",
+        "Pink",
+        "White"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "Razer",
+      "category": "laptop",
+      "price": 723.01,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/732x800/000/fff&text=Laptop",
+        "https://dummyimage.com/653x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 33
+      },
+      "colors": [
+        "Silver"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "HP",
+      "category": "laptop",
+      "price": 1021.02,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/736x800/000/fff&text=Laptop",
+        "https://dummyimage.com/782x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 22
+      },
+      "colors": [
+        "Pink"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Dell",
+      "category": "laptop",
+      "price": 1515.37,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/768x800/000/fff&text=Laptop",
+        "https://dummyimage.com/659x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "15.6-inch Retina",
+        "processor": "Intel i7 3.1 GHz",
+        "memory": "16GB RAM",
+        "storage": "512GB SSD",
+        "frontCamera": "1080p",
+        "battery": "6000mAh",
+        "operatingSystem": "Windows 10",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 16
+      },
+      "colors": [
+        "Black",
+        "Green",
+        "Silver"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "brand": "Asus",
+      "category": "laptop",
+      "price": 1334.23,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/782x800/000/fff&text=Laptop",
+        "https://dummyimage.com/692x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "14-inch FHD",
+        "processor": "AMD Ryzen 5 2.6 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "720p",
+        "battery": "4500mAh",
+        "operatingSystem": "Windows 11",
+        "wifi": "802.11ac",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 17
+      },
+      "colors": [
+        "Gray",
+        "Silver",
+        "White"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "brand": "MSI",
+      "category": "laptop",
+      "price": 1935.83,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/752x800/000/fff&text=Laptop",
+        "https://dummyimage.com/731x800/000/fff&text=Laptop_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "13.3-inch QHD",
+        "processor": "Intel i5 2.4 GHz",
+        "memory": "8GB RAM",
+        "storage": "256GB SSD",
+        "frontCamera": "1080p",
+        "battery": "5000mAh",
+        "operatingSystem": "Windows 10 Pro",
+        "wifi": "802.11n",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 3
+      },
+      "colors": [
+        "Blue"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Sony SmartWatch 3",
+      "brand": "Google",
+      "category": "smartwatch",
+      "price": 462.48,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/681x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/655x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "1.8-inch OLED",
+        "processor": "Dual-core 1.5 GHz",
+        "memory": "2GB RAM",
+        "storage": "32GB",
+        "battery": "350mAh",
+        "operatingSystem": "watchOS",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 10
+      },
+      "colors": [
+        "Pink"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Sony SmartWatch 3",
+      "brand": "Apple",
+      "category": "smartwatch",
+      "price": 361.34,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/763x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/782x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "1.8-inch OLED",
+        "processor": "Dual-core 1.5 GHz",
+        "memory": "2GB RAM",
+        "storage": "32GB",
+        "battery": "350mAh",
+        "operatingSystem": "watchOS",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 67
+      },
+      "colors": [
+        "Blue"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "OnePlus Watch",
+      "brand": "OnePlus",
+      "category": "smartwatch",
+      "price": 326.32,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/672x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/740x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "1.2-inch LCD",
+        "processor": "Quad-core 1.2 GHz",
+        "memory": "512MB RAM",
+        "storage": "8GB",
+        "battery": "250mAh",
+        "operatingSystem": "Tizen",
+        "wifi": "802.11b/g",
+        "bluetooth": "4.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 60
+      },
+      "colors": [
+        "White",
+        "Pink",
+        "Silver",
+        "Gray"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Google Pixel Watch",
+      "brand": "Huawei",
+      "category": "smartwatch",
+      "price": 485.96,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/662x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/682x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "1.8-inch OLED",
+        "processor": "Dual-core 1.5 GHz",
+        "memory": "2GB RAM",
+        "storage": "32GB",
+        "battery": "350mAh",
+        "operatingSystem": "watchOS",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 74
+      },
+      "colors": [
+        "Green"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Sony SmartWatch 3",
+      "brand": "Huawei",
+      "category": "smartwatch",
+      "price": 132.89,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/796x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/651x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "1.2-inch LCD",
+        "processor": "Quad-core 1.2 GHz",
+        "memory": "512MB RAM",
+        "storage": "8GB",
+        "battery": "250mAh",
+        "operatingSystem": "Tizen",
+        "wifi": "802.11b/g",
+        "bluetooth": "4.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 133
+      },
+      "colors": [
+        "Silver",
+        "Blue",
+        "Green"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Apple Watch Series 6",
+      "brand": "Google",
+      "category": "smartwatch",
+      "price": 338.3,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/741x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/775x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "1.5-inch AMOLED",
+        "processor": "Dual-core 1.0 GHz",
+        "memory": "1GB RAM",
+        "storage": "16GB",
+        "battery": "300mAh",
+        "operatingSystem": "Wear OS",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 27
+      },
+      "colors": [
+        "Silver",
+        "Green"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Google Pixel Watch",
+      "brand": "Sony",
+      "category": "smartwatch",
+      "price": 440.88,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/714x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/783x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "1.5-inch AMOLED",
+        "processor": "Dual-core 1.0 GHz",
+        "memory": "1GB RAM",
+        "storage": "16GB",
+        "battery": "300mAh",
+        "operatingSystem": "Wear OS",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 22
+      },
+      "colors": [
+        "Black",
+        "Pink",
+        "White",
+        "Blue"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Sony SmartWatch 3",
+      "brand": "Apple",
+      "category": "smartwatch",
+      "price": 468.11,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/750x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/712x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "1.5-inch AMOLED",
+        "processor": "Dual-core 1.0 GHz",
+        "memory": "1GB RAM",
+        "storage": "16GB",
+        "battery": "300mAh",
+        "operatingSystem": "Wear OS",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 55
+      },
+      "colors": [
+        "Silver",
+        "Gray"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Apple Watch Series 6",
+      "brand": "Google",
+      "category": "smartwatch",
+      "price": 123.25,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/735x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/655x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "1.2-inch LCD",
+        "processor": "Quad-core 1.2 GHz",
+        "memory": "512MB RAM",
+        "storage": "8GB",
+        "battery": "250mAh",
+        "operatingSystem": "Tizen",
+        "wifi": "802.11b/g",
+        "bluetooth": "4.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 162
+      },
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "OnePlus Watch",
+      "brand": "OnePlus",
+      "category": "smartwatch",
+      "price": 367.16,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/689x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/799x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "1.8-inch OLED",
+        "processor": "Dual-core 1.5 GHz",
+        "memory": "2GB RAM",
+        "storage": "32GB",
+        "battery": "350mAh",
+        "operatingSystem": "watchOS",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 2
+      },
+      "colors": [
+        "Green",
+        "White",
+        "Black"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "OnePlus Watch",
+      "brand": "OnePlus",
+      "category": "smartwatch",
+      "price": 212.17,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/786x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/731x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "1.8-inch OLED",
+        "processor": "Dual-core 1.5 GHz",
+        "memory": "2GB RAM",
+        "storage": "32GB",
+        "battery": "350mAh",
+        "operatingSystem": "watchOS",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 66
+      },
+      "colors": [
+        "White",
+        "Pink"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Huawei Watch GT 2",
+      "brand": "Samsung",
+      "category": "smartwatch",
+      "price": 450.37,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/738x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/727x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "1.8-inch OLED",
+        "processor": "Dual-core 1.5 GHz",
+        "memory": "2GB RAM",
+        "storage": "32GB",
+        "battery": "350mAh",
+        "operatingSystem": "watchOS",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 140
+      },
+      "colors": [
+        "White"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Apple Watch Series 6",
+      "brand": "Samsung",
+      "category": "smartwatch",
+      "price": 134.2,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/661x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/759x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "1.5-inch AMOLED",
+        "processor": "Dual-core 1.0 GHz",
+        "memory": "1GB RAM",
+        "storage": "16GB",
+        "battery": "300mAh",
+        "operatingSystem": "Wear OS",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 54
+      },
+      "colors": [
+        "Gray",
+        "Green"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Apple Watch Series 6",
+      "brand": "Sony",
+      "category": "smartwatch",
+      "price": 197.09,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/790x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/714x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "1.5-inch AMOLED",
+        "processor": "Dual-core 1.0 GHz",
+        "memory": "1GB RAM",
+        "storage": "16GB",
+        "battery": "300mAh",
+        "operatingSystem": "Wear OS",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 178
+      },
+      "colors": [
+        "Blue"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Google Pixel Watch",
+      "brand": "Google",
+      "category": "smartwatch",
+      "price": 239.97,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/771x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/666x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "1.5-inch AMOLED",
+        "processor": "Dual-core 1.0 GHz",
+        "memory": "1GB RAM",
+        "storage": "16GB",
+        "battery": "300mAh",
+        "operatingSystem": "Wear OS",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 139
+      },
+      "colors": [
+        "Silver",
+        "Pink"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Apple Watch Series 6",
+      "brand": "Google",
+      "category": "smartwatch",
+      "price": 449.7,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/720x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/788x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "1.8-inch OLED",
+        "processor": "Dual-core 1.5 GHz",
+        "memory": "2GB RAM",
+        "storage": "32GB",
+        "battery": "350mAh",
+        "operatingSystem": "watchOS",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 117
+      },
+      "colors": [
+        "Green",
+        "Black"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Samsung Galaxy Watch 4",
+      "brand": "Samsung",
+      "category": "smartwatch",
+      "price": 369.93,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/737x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/682x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "1.5-inch AMOLED",
+        "processor": "Dual-core 1.0 GHz",
+        "memory": "1GB RAM",
+        "storage": "16GB",
+        "battery": "300mAh",
+        "operatingSystem": "Wear OS",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 157
+      },
+      "colors": [
+        "Blue",
+        "Black",
+        "White",
+        "Green"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "OnePlus Watch",
+      "brand": "OnePlus",
+      "category": "smartwatch",
+      "price": 334.81,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/674x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/697x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "1.8-inch OLED",
+        "processor": "Dual-core 1.5 GHz",
+        "memory": "2GB RAM",
+        "storage": "32GB",
+        "battery": "350mAh",
+        "operatingSystem": "watchOS",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 165
+      },
+      "colors": [
+        "Green"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Apple Watch Series 6",
+      "brand": "Google",
+      "category": "smartwatch",
+      "price": 431.79,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/684x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/799x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "1.8-inch OLED",
+        "processor": "Dual-core 1.5 GHz",
+        "memory": "2GB RAM",
+        "storage": "32GB",
+        "battery": "350mAh",
+        "operatingSystem": "watchOS",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 39
+      },
+      "colors": [
+        "Green",
+        "Black",
+        "Silver",
+        "Blue"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Huawei Watch GT 2",
+      "brand": "Apple",
+      "category": "smartwatch",
+      "price": 194.41,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/767x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/660x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "1.8-inch OLED",
+        "processor": "Dual-core 1.5 GHz",
+        "memory": "2GB RAM",
+        "storage": "32GB",
+        "battery": "350mAh",
+        "operatingSystem": "watchOS",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 62
+      },
+      "colors": [
+        "Black"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Samsung Galaxy Watch 4",
+      "brand": "Apple",
+      "category": "smartwatch",
+      "price": 471.11,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/791x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/710x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "1.2-inch LCD",
+        "processor": "Quad-core 1.2 GHz",
+        "memory": "512MB RAM",
+        "storage": "8GB",
+        "battery": "250mAh",
+        "operatingSystem": "Tizen",
+        "wifi": "802.11b/g",
+        "bluetooth": "4.1"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 160
+      },
+      "colors": [
+        "Green",
+        "Pink"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Samsung Galaxy Watch 4",
+      "brand": "OnePlus",
+      "category": "smartwatch",
+      "price": 195.33,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/744x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/747x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "1.5-inch AMOLED",
+        "processor": "Dual-core 1.0 GHz",
+        "memory": "1GB RAM",
+        "storage": "16GB",
+        "battery": "300mAh",
+        "operatingSystem": "Wear OS",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 187
+      },
+      "colors": [
+        "Green",
+        "Black",
+        "Pink"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Sony SmartWatch 3",
+      "brand": "Sony",
+      "category": "smartwatch",
+      "price": 437.82,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/740x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/683x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "1.5-inch AMOLED",
+        "processor": "Dual-core 1.0 GHz",
+        "memory": "1GB RAM",
+        "storage": "16GB",
+        "battery": "300mAh",
+        "operatingSystem": "Wear OS",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 179
+      },
+      "colors": [
+        "Gray",
+        "Green",
+        "Pink",
+        "Blue"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "OnePlus Watch",
+      "brand": "Samsung",
+      "category": "smartwatch",
+      "price": 288.79,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/770x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/692x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "1.2-inch LCD",
+        "processor": "Quad-core 1.2 GHz",
+        "memory": "512MB RAM",
+        "storage": "8GB",
+        "battery": "250mAh",
+        "operatingSystem": "Tizen",
+        "wifi": "802.11b/g",
+        "bluetooth": "4.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 132
+      },
+      "colors": [
+        "White"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Apple Watch Series 6",
+      "brand": "Apple",
+      "category": "smartwatch",
+      "price": 435.93,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/696x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/781x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A budget-friendly device with essential features.",
+      "specifications": {
+        "display": "1.8-inch OLED",
+        "processor": "Dual-core 1.5 GHz",
+        "memory": "2GB RAM",
+        "storage": "32GB",
+        "battery": "350mAh",
+        "operatingSystem": "watchOS",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 119
+      },
+      "colors": [
+        "Black",
+        "White",
+        "Gray",
+        "Silver"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2023"
+    },
+    {
+      "name": "Sony SmartWatch 3",
+      "brand": "Samsung",
+      "category": "smartwatch",
+      "price": 440.19,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/688x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/783x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "1.5-inch AMOLED",
+        "processor": "Dual-core 1.0 GHz",
+        "memory": "1GB RAM",
+        "storage": "16GB",
+        "battery": "300mAh",
+        "operatingSystem": "Wear OS",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 72
+      },
+      "colors": [
+        "Gray",
+        "Green"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Sony SmartWatch 3",
+      "brand": "Samsung",
+      "category": "smartwatch",
+      "price": 159.12,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/668x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/677x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "1.5-inch AMOLED",
+        "processor": "Dual-core 1.0 GHz",
+        "memory": "1GB RAM",
+        "storage": "16GB",
+        "battery": "300mAh",
+        "operatingSystem": "Wear OS",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 56
+      },
+      "colors": [
+        "Black"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Sony SmartWatch 3",
+      "brand": "Sony",
+      "category": "smartwatch",
+      "price": 317.64,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/716x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/771x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A smartwatch with fitness tracking features.",
+      "specifications": {
+        "display": "1.8-inch OLED",
+        "processor": "Dual-core 1.5 GHz",
+        "memory": "2GB RAM",
+        "storage": "32GB",
+        "battery": "350mAh",
+        "operatingSystem": "watchOS",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 84
+      },
+      "colors": [
+        "Blue",
+        "Gray"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Huawei Watch GT 2",
+      "brand": "Google",
+      "category": "smartwatch",
+      "price": 267.93,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/711x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/684x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "1.5-inch AMOLED",
+        "processor": "Dual-core 1.0 GHz",
+        "memory": "1GB RAM",
+        "storage": "16GB",
+        "battery": "300mAh",
+        "operatingSystem": "Wear OS",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 36
+      },
+      "colors": [
+        "Blue",
+        "Pink"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    },
+    {
+      "name": "Google Pixel Watch",
+      "brand": "Sony",
+      "category": "smartwatch",
+      "price": 477.79,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/722x800/000/fff&text=Smartwatch",
+        "https://dummyimage.com/652x800/000/fff&text=Smartwatch_2"
+      ],
+      "description": "A powerful laptop for professional use.",
+      "specifications": {
+        "display": "1.8-inch OLED",
+        "processor": "Dual-core 1.5 GHz",
+        "memory": "2GB RAM",
+        "storage": "32GB",
+        "battery": "350mAh",
+        "operatingSystem": "watchOS",
+        "wifi": "802.11ac",
+        "bluetooth": "5.0"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 123
+      },
+      "colors": [
+        "Blue"
+      ],
+      "warranty": "2 year",
+      "releaseYear": "2022"
+    }
+  ]

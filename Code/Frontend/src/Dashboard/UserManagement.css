@@ -1,0 +1,86 @@
+.user-management-container {
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #333;
+}
+
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+}
+
+.user-table th,
+.user-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+  font-size: 14px;
+}
+
+.user-table th {
+  background-color: #1c1a1a; /* Blue color for table headers */
+  color: white;
+  font-weight: bold;
+}
+
+.user-table td {
+  background-color: #ffffff;
+}
+
+.user-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.user-table th:first-child,
+.user-table td:first-child {
+  border-top-left-radius: 8px;
+}
+
+.user-table th:last-child,
+.user-table td:last-child {
+  border-top-right-radius: 8px;
+}
+
+.button-container {
+  display: flex;
+  gap: 10px;
+}
+
+.user-table button {
+  width: 100%;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.delete-btn {
+  background-color: #fc0505; /* Red background for delete button */
+  color: white; /* White text for delete button */
+}
+
+.delete-btn:hover {
+  background-color: #e60000; /* Darker red on hover */
+}
+
+.promote-btn,
+.demote-btn {
+    background-color: #1c1a1a; /* Dark grey background for promote and demote buttons */
+    color: white; /* White text for promote and demote buttons */
+    border: 1px solid #1c1a1a;
+}
+
+.promote-btn:hover,
+.demote-btn:hover {
+    background-color: #333; /* Slightly lighter grey on hover */
+}

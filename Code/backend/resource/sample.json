@@ -1,0 +1,72 @@
+[
+  {
+      "name": "Google Pixel 1000",
+      "brand": "Google",
+      "category": "smartphone",
+      "price": 892.7,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/718x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/693x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A versatile device suitable for various tasks.",
+      "specifications": {
+        "display": "6.1-inch LCD",
+        "processor": "Hexa-core 2.5 GHz",
+        "memory": "4GB RAM",
+        "storage": "64GB",
+        "frontCamera": "8MP",
+        "rearCamera": "12MP",
+        "battery": "3000mAh",
+        "operatingSystem": "Android 10",
+        "wifi": "802.11n",
+        "bluetooth": "4.2"
+      },
+      "availability": {
+        "inStock": false,
+        "quantity": 75
+      },
+      "colors": [
+        "Pink",
+        "Black"
+      ],
+      "warranty": "1 year",
+      "releaseYear": "2021"
+    },
+    {
+      "name": "Vivo V21000",
+      "brand": "Sony",
+      "category": "smartphone",
+      "price": 397.51,
+      "discount": 0,
+      "images": [
+        "https://dummyimage.com/650x800/000/fff&text=Smartphone",
+        "https://dummyimage.com/722x800/000/fff&text=Smartphone_2"
+      ],
+      "description": "A high-end smartphone with the latest features.",
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Octa-core 3.0 GHz",
+        "memory": "12GB RAM",
+        "storage": "256GB",
+        "frontCamera": "16MP",
+        "rearCamera": "64MP + 16MP",
+        "battery": "5000mAh",
+        "operatingSystem": "Android 12",
+        "wifi": "802.11ax",
+        "bluetooth": "5.1"
+      },
+      "availability": {
+        "inStock": true,
+        "quantity": 77
+      },
+      "colors": [
+        "Silver",
+        "White",
+        "Pink",
+        "Gray"
+      ],
+      "warranty": "3 year",
+      "releaseYear": "2021"
+    }
+]

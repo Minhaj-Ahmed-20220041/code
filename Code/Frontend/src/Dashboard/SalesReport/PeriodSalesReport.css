@@ -1,0 +1,80 @@
+.sale-report-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.sale-report-header h2 {
+    margin-left: 0px;
+}
+
+.sale-breakdown-date-inputs {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: .8em;
+    gap: 10px;
+}
+
+.sale-breakdown-data-viewer {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: stretch;
+    gap: 5px;
+}
+
+.sale-breakdown-data-viewer .sales-breakdown-meta-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+}
+
+.sale-breakdown-chart {
+    flex: 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.sales-top-product {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.top-product-image {
+    width: 120px;
+    height: 150px;
+    object-fit: contain;
+    object-position: center;
+    border-radius: 5px;
+}
+
+.top-product-details {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.top-product-details p{
+    margin: 10px 0;
+}
+
+.top-product-title {
+    font-size: 1.2em;
+}
+
+.top-product-price {
+    font-size: 1.4em;
+    color: #ff6f61;
+}

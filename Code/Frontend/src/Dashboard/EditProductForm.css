@@ -1,0 +1,21 @@
+  .edit-product-modal-content {
+      max-height: 90vh;
+      overflow-y: auto;
+      position: relative;
+      scrollbar-width: none;
+  }
+
+  .edit-product-modal-content h2 {
+      margin-top: 0;
+      margin-bottom: 20px;
+      text-align: center;
+  }
+
+  .edit-product-modal-content form {
+      padding: 0px;
+      margin: 10px 50px;
+  }
+
+  .update-product-btn {
+      margin: 15px;
+  }
